@@ -43,6 +43,6 @@
 
 ###
 
-<!------<img src="https://raw.githubusercontent.com/jeevithakannan2/jeevithakannan2/output/snake.svg" alt="Snake animation" /> ---->
+<img src="https://raw.githubusercontent.com/jeevithakannan2/jeevithakannan2/output/snake.svg" alt="Snake animation" /> 
 
 ###
