@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭Pursuing B.Tech Information Technology
  <!---- <br>🌱 Learning React Js.<br> ---->
 
