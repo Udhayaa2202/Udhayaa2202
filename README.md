@@ -1,5 +1,5 @@
 # About Me
-🔭Pursuing B.Tech Information Technology
+🔭Pursuing B.Tech Information Technology <br>
 📌TamilNadu, India
  <!---- <br>🌱 Learning React Js.<br> ---->
 
