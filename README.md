@@ -40,8 +40,8 @@
 <!---[![](https://visitcount.itsvg.in/api?id=Udhayaa2202&icon=5&color=0)](https://visitcount.itsvg.in)-->
 </div>
 
-<!---###
+###
 
 <img src="https://raw.githubusercontent.com/jeevithakannan2/jeevithakannan2/output/snake.svg" alt="Snake animation" /> 
 
-###---->
+###
