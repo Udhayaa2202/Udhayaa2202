@@ -29,8 +29,8 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Udhayaa2202&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Udhayaa2202&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaa2202&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaa2202&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>-->
 
 <!---### ✍️ Quote
 <div align="center">
