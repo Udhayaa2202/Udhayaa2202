@@ -32,13 +32,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayaa2202&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>-->
 
-<!---### ✍️ Quote
+### ✍️ Quote
 <div align="center">
 
-<!---[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)--->
+[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!---[![](https://visitcount.itsvg.in/api?id=Udhayaa2202&icon=5&color=0)](https://visitcount.itsvg.in)-->
-<!---</div>
+</div>
 
 ###
 
