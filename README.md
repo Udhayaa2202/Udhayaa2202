@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java, React**
 
 - 👨‍💻 All of my projects are available at <!---[https://udhayaa22-865988809.development.catalystserverless.com/app/index.html](https://udhayaa22-865988809.development.catalystserverless.com/app/index.html)-->(Under Maintanence)
-
+- Upcomming with a new portfolio
 - 📫 How to reach me **udhayaaudhayaa987@gmail.com**
 
 <!---<h3 align="left">Connect with me:</h3>-->
