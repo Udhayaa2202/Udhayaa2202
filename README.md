@@ -5,7 +5,7 @@
 <!--<h3 align="center">A passionate frontend developer from India</h3>--->
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhayaa2202" alt="udhayaa2202" /></a> </p>--->
 
-- 🌱 I’m currently learning **Java**
+<!--- 🌱 I’m currently learning **Java**-->
 
 <!---- 👨‍💻 All of my projects are available at [https://udhayaa22-865988809.development.catalystserverless.com/app/index.html](https://udhayaa22-865988809.development.catalystserverless.com/app/index.html)(Under Maintanence)-->
 <!-- Upcomming with a new portfolio-->
